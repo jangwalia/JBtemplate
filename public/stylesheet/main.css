@@ -1,0 +1,103 @@
+body{
+    background-color: #f5db93;
+
+}
+#main_logo{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+}
+#ribbon{
+    height:300px;
+    width:300px;
+    position: absolute;
+    margin-top: 40px;
+    left: 500px;
+    z-index:0;
+   
+}
+.container1 p{
+    position: relative;
+    margin-top: -20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.container1{
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px;
+}
+#logIn{
+    right:200px;
+}
+#font{
+    color: cornsilk;
+    font-weight: 100;
+}
+#navButton{
+    
+    display: inline-block;
+}
+.navbar{
+    left: 80px;
+    
+}
+.navbar .btn{
+    
+    
+    border: 2px solid cyan;
+    background-color: cornsilk;
+    width:150px;
+}
+.navbar .btn:hover{
+    color:brown;
+}
+.slide{
+    width: 763px;
+    right: -98px;
+    border: 13px solid cornsilk;
+    
+}
+.showCakes{
+    
+    margin-top: 50px;
+    border: 13px solid cornsilk;
+    box-sizing: border-box;
+}
+
+.showCakes:hover{
+    
+    opacity:50%;
+}
+.card-deck{
+    margin-top: 100px;
+}
+
+h5{
+    color: brown;
+    font-weight: 100;
+}
+.card-deck a{
+    color: brown;
+}
+.card-deck{
+    border-top: 1px brown dashed;
+    border-bottom: 1px brown dashed;
+}
+.card-deck .card{
+   background:none;
+   text-align: center;
+   border: none;
+}
+
+.card-deck img{
+    height:150px;
+    width: 150px;
+    align-self: center;
+}
+
+.footer{
+    text-align: center;
+    color: brown;
+    padding: 20px;
+}
