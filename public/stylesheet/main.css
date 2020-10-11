@@ -29,6 +29,10 @@ body{
 }
 #logIn{
     right:200px;
+    
+}
+#logIn a{
+    color:brown;
 }
 #font{
     color: cornsilk;
